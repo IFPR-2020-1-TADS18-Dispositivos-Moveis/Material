@@ -15,3 +15,9 @@
 ## Android
 
 👨‍🏫 [Android - Introdução](files/dm-aula01-introducao.pdf)
+
+👨‍🏫 [Android Studio e Projetos Android](files/dm-aula02-android.pdf)
+
+🧮 [Código da aula de 18/02/2020 - Projeto Android com login](https://github.com/IFPR-2020-1-TADS18-Dispositivos-Moveis/aula02-android)
+
+🖊️ [Atividade 1 - Calculadora de Gorjeta](https://classroom.github.com/a/2uKtoL_f)
